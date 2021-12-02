@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kai-tw.github.io
+Token: a21150e6390b8bf453bdf7c66ab869c8e3fef0eb448369d04c348693605e5847
